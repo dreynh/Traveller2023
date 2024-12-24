@@ -9,6 +9,8 @@
         "dest": "/api/index.php"
     }],
     "env": {
+        "PHP_VERSION": "8.2.12",
+
         "APP_ENV": "production",
         "APP_DEBUG": "true",
         "APP_URL": "https://traveller2024.com",
