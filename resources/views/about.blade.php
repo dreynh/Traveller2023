@@ -98,7 +98,7 @@
 																								<div class="testimony-wrap py-4">
 																												<div class="text">
 																																<div class="d-flex align-items-center">
-																																				<div class="user-img" style="background-image: url()"></div>
+																																				<div class="user-img" style="background-image: url(images/person_4.jpg)"></div>
 																																				<div class="pl-3">
 																																								<p class="name">Erwin Eka Syahputra</p>
 																																								<span class="position">Back End Developer</span>

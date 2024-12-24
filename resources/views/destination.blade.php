@@ -26,8 +26,7 @@
 																								</a>
 																								<div class="text p-4">
 																												<h3><a>Subang</a></h3>
-																												<p class="location"><span class="fa fa-map-marker"></span> Jetis, Pacarejo, Kec. Semanu,
-																																Kabupaten Gunung Kidul, Daerah Istimewa Yogyakarta 55893</p>
+																												<p class="location"><span class="fa fa-map-marker"></span> Jl. merdeka, Kecamatan Margapura, Kabupaten Subang, Jawa Barat</p>
 																								</div>
 																				</div>
 																</div>
@@ -37,8 +36,7 @@
 																								</a>
 																								<div class="text p-4">
 																												<h3><a>Bandung</a></h3>
-																												<p class="location"><span class="fa fa-map-marker"></span> Jl. Raya Taman Mini, Jakarta Timur,
-																																DKI Jakarta, Indonesia</p>
+																												<p class="location"><span class="fa fa-map-marker"></span> Jl. Ciwastra No. 300, Margasari, Kecamatan Buahbatu, Kota Bandung, Jawa Barat.</p>
 																								</div>
 																				</div>
 																</div>
@@ -48,8 +46,7 @@
 																								</a>
 																								<div class="text p-4">
 																												<h3><a>Jakarta</a></h3>
-																												<p class="location"><span class="fa fa-map-marker"></span> Jl. Raya Soreang Ciwidey, Ciwidey,
-																																Bandung, Jawa Barat 40973</p>
+																												<p class="location"><span class="fa fa-map-marker"></span> Gambir, Jl. Medan Merdeka, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta</p>
 																								</div>
 																				</div>
 																</div>
@@ -59,8 +56,7 @@
 																								</a>
 																								<div class="text p-4">
 																												<h3><a>Bogor</a></h3>
-																												<p class="location"><span class="fa fa-map-marker"></span> Desa Kalisidi, RT.01/RW.06,
-																																Indrakila, Lerep, Kec. Ungaran Bar., Kabupaten Semarang, Jawa Tengah 50519</p>
+																												<p class="location"><span class="fa fa-map-marker"></span> Jl.Pangeran Sogiri No.100 RT.010 RW.021. Kel.Tanah Baru, Kec.Bogor Barat, Kota Bogor</p>
 																								</div>
 																				</div>
 																</div>
@@ -70,8 +66,7 @@
 																								</a>
 																								<div class="text p-4">
 																												<h3><a>Depok</a></h3>
-																												<p class="location"><span class="fa fa-map-marker"></span> Jl. Sukolilo No.100, Sukolilo Baru,
-																																Kec. Bulak, Kota Surabaya, Jawa Timur 60122</p>
+																												<p class="location"><span class="fa fa-map-marker"></span> Jl. Lingkar, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat.</p>
 																								</div>
 																				</div>
 																</div>
@@ -81,8 +76,7 @@
 																								</a>
 																								<div class="text p-4">
 																												<h3><a>Tangerang</a></h3>
-																												<p class="location"><span class="fa fa-map-marker"></span> Kecamatan Pagar Alam Selatan, Kota
-																																Pagar Alam, Sumatra Selatan, Indonesia</p>
+																												<p class="location"><span class="fa fa-map-marker"></span> Jl. Dongkal No. 19A, Cipondoh Indah, Cipondoh, Tangerang</p>
 																								</div>
 																				</div>
 																</div>
@@ -92,8 +86,7 @@
 																								</a>
 																								<div class="text p-4">
 																												<h3><a>Bekasi</a></h3>
-																												<p class="location"><span class="fa fa-map-marker"></span> Jl. Teuku Cik Ditiro, Madras Hulu,
-																																Kec. Medan Polonia, Kota Medan, Sumatera Utara</p>
+																												<p class="location"><span class="fa fa-map-marker"></span> Jl. Jend. Ahmad Yani No 200, Kelurahan Marga Jaya, Kec. Bekasi Selatan., Kota Bekasi.</p>
 																								</div>
 																				</div>
 																</div>
@@ -103,8 +96,7 @@
 																								</a>
 																								<div class="text p-4">
 																												<h3><a>Sumedang</a></h3>
-																												<p class="location"><span class="fa fa-map-marker"></span> Podokoyo, Tosari, Pasuruan, Jawa
-																																Timur</p>
+																												<p class="location"><span class="fa fa-map-marker"></span> Jl. Murai Batau No.12, Kecamatan Murai Air, Kabupaten Sumedang, Jawa Barat</p>
 																								</div>
 																				</div>
 																</div>
@@ -114,8 +106,7 @@
 																								</a>
 																								<div class="text p-4">
 																												<h3><a>Sukabumi</a></h3>
-																												<p class="location"><span class="fa fa-map-marker"></span> Bedulu, Kec. Blahbatuh, Kabupaten
-																																Gianyar, Bali</p>
+																												<p class="location"><span class="fa fa-map-marker"></span> JL. Kapten Bambang Dirja, Kecamatan Tapan, Kabupaten Sukabumi, Jawa Barat</p>
 																								</div>
 																				</div>
 																</div>
@@ -126,9 +117,7 @@
 																								</a>
 																								<div class="text p-4">
 																												<h3><a>Banten</a></h3>
-																												<p class="location"><span class="fa fa-map-marker"></span> Jalan Permata Raya Dukuh Tegal
-																																Mulyo rt.002/rw.008, Honggobayan, Pabelan, Kec. Kartasura, Kabupaten Sukoharjo, Jawa Tengah
-																																57169</p>
+																												<p class="location"><span class="fa fa-map-marker"></span> Jl. Kepanjen No.256, Kecamatan Purwaraja, Kabupaten Lebak, Banten</p>
 																								</div>
 																				</div>
 																</div>
@@ -138,8 +127,7 @@
 																								</a>
 																								<div class="text p-4">
 																												<h3><a>Tasikmalaya</a></h3>
-																												<p class="location"><span class="fa fa-map-marker"></span> Jl. Raya Bukittinggi - Payakumbuh,
-																																Benteng Ps. Atas, Kec. Guguk Panjang, Kota Bukittinggi, Sumatera Barat 26136</p>
+																												<p class="location"><span class="fa fa-map-marker"></span> Jl. Ahmad Bakri No.192, Sukamulja, Kec. Bungursari, Tasikmalaya, Jawa Barat </p>
 																								</div>
 																				</div>
 																</div>
@@ -150,7 +138,7 @@
 																								<div class="text p-4">
 																												<h3><a>Cirebon</a></h3>
 																												<p class="location"><span class="fa fa-map-marker"></span> Patapan, Kec. Beber, Kabupaten
-																																Cirebon, Jawa Barat 45172</p>
+																																Cirebon, Jawa Barat</p>
 																								</div>
 																				</div>
 																</div>
