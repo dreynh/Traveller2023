@@ -421,13 +421,13 @@ class OrderController extends Controller
         }
 
         if (!$request['travel_id']) {
-            return response()->json(['price' => 'Pilih maskapai terlebih dahulu!']);
+            return response()->json(['price' => 'Pilih travel terlebih dahulu!']);
         } else {
             $travel_id = $request['travel_id'];
         }
 
         if (!$request['type_id']) {
-            return response()->json(['price' => 'Pilih jenis maskapai terlebih dahulu!']);
+            return response()->json(['price' => 'Pilih kelas travel terlebih dahulu!']);
         } else {
             $type_id = $request['type_id'];
         }
